@@ -1,0 +1,54 @@
+header{
+    background-color: rgb(150, 150, 255);
+}
+
+header>h1 {
+    color: white;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    background-color: yellow;
+}
+
+h4 {
+    background-color: green;
+    color: yellow;
+}
+
+#inferno{
+    color: red;
+}
+
+#father{
+    background-color: limegreen;
+}
+
+#doctor {
+
+}
+
+#doc-div{
+    background-color: yellow;
+}
+
+#doc-div>h5{
+    color: red;
+}
+
+#imdoc {
+    color: orange;
+    font-weight: bold;
+}
+
+#doc-div>p>span {
+    color: blue;
+}
